@@ -19,13 +19,6 @@ This theme is for you, to bring back those memories while coding away!
 There are two methods for installing any Atom Theme, one via the Settings and the other is by using the command line and typing the following.
 
 ```bash
-apm install franken-berry-ui
-```
-
-## Installation
-There are two methods for installing any Atom Theme, one via the Settings and the other is by using the command line and typing the following.
-
-```bash
 apm install franken-berry-syntax
 ```
 
